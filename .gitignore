@@ -1,0 +1,14 @@
+# MacOS files
+.DS_STORE
+
+# Logs
+*.log
+
+# Builds
+bin/
+*.out
+*.o
+
+# Generated source files
+src/*.yy.*
+src/*.output

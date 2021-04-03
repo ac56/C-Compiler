@@ -1,0 +1,39 @@
+#+TITLE: Management
+
+* Final Deadline
+DEADLINE: <2019-03-26 Tue>
+
+* Milestones
+** [X] AST
+SCHEDULED: <2019-02-24 Sun> DEADLINE: <2019-03-01 Fri>
+List the AST nodes and code their constructors
+
+** [ ] Parser
+*** [X] Parser Skeleton
+DEADLINE: <2019-03-11 Mon> DONE: <2019-03-10 Sun>
+Get parser compiling for basic expressions, and using smart pointers
+*** [X] Expressions
+SCHEDULED: <2019-03-08 Fri>
+DONE: <2019-03-10 Sun>
+*** [X] Statements
+SCHEDULED: <2019-03-08 Fri>
+DONE: <2019-03-10 Sun>
+*** [X] Declarations
+SCHEDULED: <2019-03-15 Fri>
+DONE: <2019-03-16 Sat>
+*** [ ] Function definitions
+SCHEDULED: <2019-03-16 Sat>
+** [X] Lexer
+SCHEDULED: <2019-02-24 Sun> DEADLINE: <2019-03-05 Tue>
+DONE: <2018-03-12 Mon>
+
+** [X] Python codegen
+SCHEDULED: <2019-03-15 Fri> DEADLINE: <2019-03-19 Tue>
+DONE: <2019-03-20 Wed>
+
+** [ ] Codegen
+SCHEDULED: <2019-03-18 Mon> DEADLINE: <2019-03-22 Fri>
+*** [ ] Arithmetic expressions in single-function file
+*** [ ] Control statements
+*** [ ] Function calls
+
